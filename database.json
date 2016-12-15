@@ -7,20 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/7ae2bac557f3004d408c224e0f780c74.git:DogLegApplication.groovy": [
-      "https://gist.github.com/7ae2bac557f3004d408c224e0f780c74.git",
-      "DogLegApplication.groovy"
-    ],
-    "https://gist.github.com/7e470bb9c7e61038f37090e704c4b0ce.git:WalkingDriveEngine.groovy": [
-      "https://gist.github.com/7e470bb9c7e61038f37090e704c4b0ce.git",
-      "WalkingDriveEngine.groovy"
-    ],
-    "https://gist.github.com/6a7ebd3799e086e9b1912c5e7d73125f.git:DogLegShoulder.groovy": [
-      "https://gist.github.com/6a7ebd3799e086e9b1912c5e7d73125f.git",
-      "DogLegShoulder.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.6",
     "skinBranch": "master",
