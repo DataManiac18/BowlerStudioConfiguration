@@ -7,20 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/DataManiac18/laser-cut-robot.git:feetCad.groovy": [
-      "https://github.com/DataManiac18/laser-cut-robot.git",
-      "feetCad.groovy"
-    ],
-    "https://gist.github.com/7ae2bac557f3004d408c224e0f780c74.git:DogLegApplication.groovy": [
-      "https://gist.github.com/7ae2bac557f3004d408c224e0f780c74.git",
-      "DogLegApplication.groovy"
-    ],
-    "https://gist.github.com/6a7ebd3799e086e9b1912c5e7d73125f.git:DogLegShoulder.groovy": [
-      "https://gist.github.com/6a7ebd3799e086e9b1912c5e7d73125f.git",
-      "DogLegShoulder.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.6",
     "skinBranch": "0.20.3",
