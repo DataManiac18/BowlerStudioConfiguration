@@ -19,8 +19,8 @@
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.6",
-    "skinBranch": "0.20.3",
-    "skinRepo": "https://github.com/DataManiac18/BowlerStudioImageAssets.git",
+    "skinBranch": "0.20.4",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.3"
   }
 }
