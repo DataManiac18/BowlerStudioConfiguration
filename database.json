@@ -7,28 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "null:DefaultDhSolver.groovy": [
-      null,
-      "DefaultDhSolver.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/laserCutCad.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "FullDog/laserCutCad.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/Dog.xml": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "FullDog/Dog.xml"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/LegMethods.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "LegLinks/LegMethods.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/TestingLegLinks.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "LegLinks/TestingLegLinks.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.6",
     "skinBranch": "0.20.4",
