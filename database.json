@@ -12,6 +12,10 @@
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "Body/NeckCad.groovy"
     ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:walkingGait.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "walkingGait.groovy"
+    ],
     "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/laserCutCad.groovy": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "FullDog/laserCutCad.groovy"
