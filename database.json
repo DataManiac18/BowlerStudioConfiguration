@@ -8,10 +8,6 @@
     "jogKinx": "0"
   },
   "studio-open-git": {
-    "https://github.com/DotSlash-CTF/Bulldog.git:Body/NeckCad.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "Body/NeckCad.groovy"
-    ],
     "https://github.com/DotSlash-CTF/Bulldog.git:walkingGait.groovy": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "walkingGait.groovy"
@@ -35,6 +31,7 @@
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.6",
+    "fontsize": 12,
     "skinBranch": "0.23.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.3",
