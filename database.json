@@ -11,6 +11,14 @@
     "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/Dog.xml": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "FullDog/Dog.xml"
+    ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/LegMethods.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "LegLinks/LegMethods.groovy"
+    ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/TestingLegLinks.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "LegLinks/TestingLegLinks.groovy"
     ]
   },
   "BowlerStudioConfigs": {
