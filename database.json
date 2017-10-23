@@ -12,26 +12,22 @@
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "Body/NeckCad.groovy"
     ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:walkingGait.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "walkingGait.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/laserCutCad.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "FullDog/laserCutCad.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:Head/HeadGeneration.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "Head/HeadGeneration.groovy"
+    "https://gist.github.com/1df2f4f7c8eb33f01e3987fd70066d8f.git:Hyperboloid.groovy": [
+      "https://gist.github.com/1df2f4f7c8eb33f01e3987fd70066d8f.git",
+      "Hyperboloid.groovy"
     ],
     "https://github.com/DataManiac18/PhysicalComputing2016-2017.git:Covered Figurine.groovy": [
       "https://github.com/DataManiac18/PhysicalComputing2016-2017.git",
       "Covered Figurine.groovy"
+    ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/TestingLegLinks.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "LegLinks/TestingLegLinks.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.6",
-    "fontsize": 20,
+    "fontsize": 12,
     "skinBranch": "0.23.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.3",
