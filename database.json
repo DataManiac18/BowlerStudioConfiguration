@@ -8,21 +8,9 @@
     "jogKinx": "0"
   },
   "studio-open-git": {
-    "https://github.com/DotSlash-CTF/Bulldog.git:Body/NeckCad.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "Body/NeckCad.groovy"
-    ],
-    "https://gist.github.com/1df2f4f7c8eb33f01e3987fd70066d8f.git:Hyperboloid.groovy": [
-      "https://gist.github.com/1df2f4f7c8eb33f01e3987fd70066d8f.git",
+    "https://gist.github.com/902a517427e9a4a12221528b2e4506a4.git:Hyperboloid.groovy": [
+      "https://gist.github.com/902a517427e9a4a12221528b2e4506a4.git",
       "Hyperboloid.groovy"
-    ],
-    "https://github.com/DataManiac18/PhysicalComputing2016-2017.git:Covered Figurine.groovy": [
-      "https://github.com/DataManiac18/PhysicalComputing2016-2017.git",
-      "Covered Figurine.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/TestingLegLinks.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "LegLinks/TestingLegLinks.groovy"
     ]
   },
   "BowlerStudioConfigs": {
