@@ -7,16 +7,11 @@
     "jogKiny": "1",
     "jogKinx": "0"
   },
-  "studio-open-git": {
-    "https://gist.github.com/902a517427e9a4a12221528b2e4506a4.git:Hyperboloid.groovy": [
-      "https://gist.github.com/902a517427e9a4a12221528b2e4506a4.git",
-      "Hyperboloid.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.6",
     "fontsize": 12.0,
-    "skinBranch": "0.23.1",
+    "skinBranch": "0.22.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.3",
     "notifiedArduinoDep": true
